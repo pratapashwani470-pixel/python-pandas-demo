@@ -1,0 +1,7 @@
+EmpID,Name,Department,City,Salary,Experience
+101,ravi,HR,Delhi,35000,2
+102,anita,IT,Chandigarh,60000,5
+103,mohit,HR,Mohali,,3
+104,sneha,Finance,Delhi,55000,4
+105,karan,IT,Chandigarh,,6
+106,pooja,HR,Mohali,40000,3
